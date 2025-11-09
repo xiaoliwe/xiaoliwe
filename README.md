@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm OC</h1>
+<h1>Hi, I'm OC</h1>
 <p>An architect who strives to explore the frontiers of technology and industrial architecture </p>
 <h2>🚀 Languages and Tooling I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
