@@ -48,7 +48,8 @@
    <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20" /></a>
    - Infra delivery pipeline: **700** NAS servers delivered with standardized workflows.
    - Test tooling / compliance automation: **95%** compliance improvement.
- 
+
+ - More detailed, email me.
  ---
  
  ## ✍️ Ecosystem & Community
