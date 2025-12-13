@@ -1,6 +1,6 @@
 # 👋 Hi, I'm XIAOLI (OC) WEI
  
- Web3 & Agentic AI infrastructure leader based in Shanghai. I build large-scale decentralized storage / compute systems (Filecoin, IPFS) and cloud-native platforms, across enterprise and high-growth environments.
+ Web3 & Agentic AI infrastructure engineer. I build large-scale decentralised storage / compute systems (Filecoin, IPFS) and cloud-native platforms, across enterprise and high-growth environments.
  
  
  
