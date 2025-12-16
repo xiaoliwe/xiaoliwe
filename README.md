@@ -1,6 +1,6 @@
 # 👋 Hi, I'm XIAOLI (OC) WEI
  
- Web3 & Agentic AI infrastructure engineer. I build large-scale decentralised storage / compute systems (Filecoin, IPFS) and cloud-native platforms, across enterprise and high-growth environments.
+ Agentic AI infra & Web3 engineer. I build large-scale decentralised storage / compute systems (Filecoin, IPFS) and cloud-native platforms, across enterprise and high-growth environments.
  
  
  
@@ -9,7 +9,7 @@
  ## 🔬 Focus
  
  - **Distributed systems & platform architecture**: high availability, observability, cost/perf.
- - **Decentralized storage & compute**: Filecoin/IPFS service networks, multi-cluster operations.
+ - **Decentralised storage & compute**: Filecoin/IPFS service networks, multi-cluster operations.
  - **Cloud & infrastructure delivery**: IDC build-out, capacity planning, supply chain, budgets.
  - **Agentic AI infra**: inference networks, GPU resource orchestration, tooling around LLM stacks.
  - **Ecosystem & solutions**: partner enablement, regional growth, technical program leadership.
@@ -46,8 +46,8 @@
  - **Operational delivery & automation**
    <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20" /></a>
    <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20" /></a>
-   - Infra delivery pipeline: **700** NAS servers delivered with standardized workflows.
-   - Test tooling / compliance automation: **95%** compliance improvement.
+   - Infra delivery pipeline: **700** NAS servers delivered with standardised workflows.
+   - Test tooling/compliance automation: **95%** compliance improvement.
 
  - More detailed, email me.
  ---
