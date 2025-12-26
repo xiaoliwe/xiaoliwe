@@ -8,10 +8,10 @@
  
  ## 🔬 Focus
  
+  - **Agentic AI infra**: Open source for inference networks, GPU resource orchestration, tooling around LLM stacks.🛶 🚴‍♂️
  - **Distributed systems & platform architecture**: high availability, observability, cost/perf.
  - **Decentralised storage & compute**: Filecoin/IPFS service networks, multi-cluster operations.
  - **Cloud & infrastructure delivery**: IDC build-out, capacity planning, supply chain, budgets.
- - **Agentic AI infra**: inference networks, GPU resource orchestration, tooling around LLM stacks.
  - **Ecosystem & solutions**: partner enablement, regional growth, technical program leadership.
  - **Current project**: https://github.com/lebitai/minipoetry
  - **Active repos (recent)**:
