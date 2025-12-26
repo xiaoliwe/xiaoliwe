@@ -1,4 +1,4 @@
-# 👋 Hi, I'm XIAOLI (OC) WEI
+# 👋 Hi, I'm XIAOLI (OC) WE
  
  Agentic AI infra & Web3 engineer. I build large-scale decentralised storage / compute systems (Filecoin, IPFS) and cloud-native platforms, across enterprise and high-growth environments.
  
