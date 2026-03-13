@@ -15,8 +15,8 @@
  - **Ecosystem & solutions**: partner enablement, regional growth, technical program leadership.
  - **Current project**: https://github.com/lebitai/minipoetry
  - **Active repos (recent)**:
-   - https://github.com/lebitai/officialsite
-   - https://github.com/xQubitAI/officialsite
+   - https://github.com/lebitxyz/officialsite
+
  
  ---
  
